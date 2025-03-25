@@ -1,4 +1,4 @@
-👋 Hi, I’m Huzaifa Iqbal (@huzaifa172)
+-👋 Hi, I’m Huzaifa Iqbal (@huzaifa172)
 🚀 MERN Stack Developer | React.js Enthusiast | Digital Entrepreneur
 
 I’m a passionate MERN Stack Developer with a strong focus on React.js. Currently, I am working as a React Developer at Mehdi Technologies, where I specialize in building high-performance and scalable front-end applications.
