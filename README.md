@@ -1,43 +1,49 @@
-- 👋 Hi, I’m **Huzaifa Iqbal** ([@huzaifa172](https://github.com/huzaifa172))
+👋 Hi, I’m **Huzaifa Iqbal** ([@huzaifa172](https://github.com/huzaifa172))
 
-🚀 **MERN Stack Developer | React.js Enthusiast | Digital Entrepreneur**
+🚀 **Full-Stack Developer | React.js Enthusiast | AI-Augmented Builder**
 
-I'm a passionate MERN Stack Developer with a strong focus on React.js. Currently working as a React Developer at **Mehdi Technologies**, where I specialize in building high-performance, scalable front-end applications.
-
----
-
-### 👀 I’m Interested In:
-- **Modern Web Development** – Crafting fast, responsive, and interactive web applications
-- **UI/UX Optimization** – Enhancing user experience with smooth animations (GSAP, Framer Motion)
-- **Backend Development** – Developing APIs with Node.js, Express.js & MongoDB
-- **eCommerce Solutions** – Building online marketplaces with advanced order flows
-- **SEO & Digital Growth** – Optimizing websites for visibility and conversions
+I'm a passionate MERN Stack Developer currently working as a **React Developer at Mehdi Technologies**.  
+I specialize in building high-performance web apps with modern UI/UX, and I’m also exploring the power of AI in development.
 
 ---
 
-### 🌱 I’m Currently Learning:
-- **Next.js** & Server-side Rendering (SSR)
-- **TypeScript** for scalable web applications
-- **Advanced State Management** (Redux, Zustand)
+### 💼 Current Focus:
+- 🔧 **Treecare** – A climate-focused full-stack platform (built 100% manually)  
+- 🤖 **Talenta AI** – An AI-powered recruitment platform (built with AI tools + human design)
 
 ---
 
-### 💞️ I’m Looking to Collaborate On:
-- React & Next.js Projects
-- Open-source Contributions
-- eCommerce & SaaS Platforms
-- Web Applications with Real-time Features
+### 👀 Interests:
+- **Frontend Magic** – React, Next.js, Framer Motion, Tailwind CSS  
+- **Backend APIs** – Node.js, Express, MongoDB  
+- **System Design** – Role-based architecture, scalable flow design  
+- **AI Tools** – Building faster with GPT, Claude, Cursor, and Copilot  
+- **SaaS & Marketplaces** – Designing modern business platforms
 
 ---
 
-### 😄 Pronouns: He/Him
+### 🌱 Currently Learning:
+- **TypeScript** for safer, scalable projects  
+- **System Design** for high-level thinking  
+- **Server Actions** & App Directory in Next.js 14+  
+- **AI Automation** using Zapier, n8n, and LLM Agents
+
+---
+
+### 🤝 Let’s Collaborate On:
+- Full-Stack Projects (MERN/Next.js)  
+- AI-Augmented SaaS Platforms  
+- Community Climate Projects (like Treecare 🌱)  
+- Open Source Contributions
+
+---
 
 ### ⚡ Fun Fact:
-I love solving complex front-end challenges — and when I’m not coding, I’m sipping chai ☕, exploring new tech trends, or planning the next big thing in web development.
+When I'm not building or automating, I’m sipping chai ☕ and planning my next big product idea.
 
 ---
 
-📫 **Get in Touch:**
-- 🌐 Portfolio: [huzaifa-iqbal.com](https://huzaifa-iqbal.com)
-- 📧 Email: huzaifaiqbal5554@gmail.com
-- 💼 LinkedIn: [Huzaifa Iqbal](https://www.linkedin.com/in/huzaifa-iqbal-a591a4357/)
+📫 **Connect With Me:**
+- 🌐 [Portfolio](https://huzaifa-iqbal.com)
+- 📧 huzaifaiqbal5554@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-iqbal-a591a4357/)
