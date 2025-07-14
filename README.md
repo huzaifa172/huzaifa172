@@ -8,8 +8,8 @@ I specialize in building high-performance web apps with modern UI/UX, and I’m 
 ---
 
 ### 💼 Current Focus:
-- 🔧 **Treecare** – A climate-focused full-stack platform (built 100% manually)  
-- 🤖 **Talenta AI** – An AI-powered recruitment platform (built with AI tools + human design)
+- 🧱 Crafting end-to-end web applications with robust backend and dynamic UIs  
+- 🧠 Leveraging AI tools to boost development speed while maintaining control over logic & architecture
 
 ---
 
