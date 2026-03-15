@@ -1,49 +1,59 @@
-👋 Hi, I’m **Huzaifa Iqbal** ([@huzaifa172](https://github.com/huzaifa172))
+Huzaifa Iqbal
+Full Stack Developer | Technical SEO Architect | MERN Specialist
+I build high-performance, scalable web applications that prioritize speed, architectural integrity, and search engine dominance
+. My approach blends full-stack engineering with a specialized focus on eliminating Technical Rot and optimizing Core Web Vitals for sustainable organic growth
+.
 
-🚀 **Full-Stack Developer | React.js Enthusiast | AI-Augmented Builder**
+--------------------------------------------------------------------------------
+Core Competencies
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+.
+Frontend: React.js, Next.js, Tailwind CSS, GSAP, Framer Motion
+.
+Backend: Node.js, Express.js, REST APIs, Webhooks
+.
+Database: MongoDB, Mongoose, Aggregation Pipelines
+.
+SEO & Performance: Technical SEO, Schema.org, Page Speed Optimization, Programmatic SEO (pSEO)
+.
+AI Integration: OpenAI API, Gemini, Claude, LLM-augmented development
+.
 
-I'm a passionate MERN Stack Developer currently working as a **React Developer at Mehdi Technologies**.  
-I specialize in building high-performance web apps with modern UI/UX, and I’m also exploring the power of AI in development.
+--------------------------------------------------------------------------------
+Professional Experience
+React/MERN Developer at Mehdi Technologies
+August 2024 – Present
+Building responsive full-stack applications with JWT-based authentication and integrated AI tools
+. I focus on improving MongoDB query performance and backend logic to ensure seamless data flow and scalability
+.
+Full Stack Developer (Freelance & Personal Projects)
+2022 – Present
+Delivering production-grade applications, including AI dashboards and internal automation tools
+. I specialize in transitioning businesses from legacy platforms like WordPress to high-performance Next.js engines to capture maximum market share
+.
 
----
+--------------------------------------------------------------------------------
+Featured Projects
+Talenta AI Platform: An AI-powered talent intelligence system utilizing Gemini, Claude, and Qwen APIs for advanced skill testing and video analysis
+.
+NeuroThanks AI Suite: A comprehensive AI toolset featuring chat, image generation, and voice synthesis built on the MERN stack
+.
+VoiceConAI: A webhook-based backend architecture designed for call tracking, transcript generation, and real-time status logging
+.
+Goatify: A performance-optimized marketplace for real-time market updates, deployed via Vercel for maximum scalability
+.
 
-### 💼 Current Focus:
-- 🧱 Crafting end-to-end web applications with robust backend and dynamic UIs  
-- 🧠 Leveraging AI tools to boost development speed while maintaining control over logic & architecture
+--------------------------------------------------------------------------------
+Current Technical Focus
+System Design: Engineering high-level, scalable architectures for SaaS and marketplaces
+.
+Next.js Evolution: Mastering Server Actions and App Directory optimizations for modern web standards
+.
+AI Automation: Designing autonomous systems using LLM Agents and workflow automation tools
+.
 
----
-
-### 👀 Interests:
-- **Frontend Magic** – React, Next.js, Framer Motion, Tailwind CSS  
-- **Backend APIs** – Node.js, Express, MongoDB  
-- **System Design** – Role-based architecture, scalable flow design  
-- **AI Tools** – Building faster with GPT, Claude, Cursor, and Copilot  
-- **SaaS & Marketplaces** – Designing modern business platforms
-
----
-
-### 🌱 Currently Learning:
-- **TypeScript** for safer, scalable projects  
-- **System Design** for high-level thinking  
-- **Server Actions** & App Directory in Next.js 14+  
-- **AI Automation** using Zapier, n8n, and LLM Agents
-
----
-
-### 🤝 Let’s Collaborate On:
-- Full-Stack Projects (MERN/Next.js)  
-- AI-Augmented SaaS Platforms  
-- Community Climate Projects (like Treecare 🌱)  
-- Open Source Contributions
-
----
-
-### ⚡ Fun Fact:
-When I'm not building or automating, I’m sipping chai ☕ and planning my next big product idea.
-
----
-
-📫 **Connect With Me:**
-- 🌐 [Portfolio](https://huzaifa-iqbal.com)
-- 📧 huzaifaiqbal5554@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-iqbal-a591a4357/)
+--------------------------------------------------------------------------------
+Connect With Me
+Portfolio: huzaifa-iqbal.com
+LinkedIn: linkedin.com/in/huzaifa-iqbal-a591a4357
+Email: huzaifaiqbal5554@gmail.com
