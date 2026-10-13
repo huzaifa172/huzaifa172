@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Huzaifa Iqbal, Full Stack Developer working with MERN, Next.js and Technical SEO" width="100%" />
+  <img src="./Huzaifa Iqbal Futuristic Developer Banner.png" alt="Huzaifa Iqbal, Full Stack Developer working with MERN, Next.js and Technical SEO" width="100%" />
 </div>
 
 <h1 align="center">Huzaifa Iqbal · Full Stack Developer (MERN & Next.js)</h1>
